@@ -1015,6 +1015,7 @@ section.lazy-placeholder:after {
 }
 .cid-rxGXCSCZP7 .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-rxGXCSCZP7 h4 {
   text-align: center;
@@ -1147,6 +1148,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-qTkAaeaxX5 H5 {
+  text-align: left;
+}
+.cid-qTkAaeaxX5 P {
   text-align: left;
 }
 .cid-rxH8zrs5HM .navbar {
@@ -2740,4 +2744,176 @@ section.lazy-placeholder:after {
 .cid-rxH8zrs5HM .nav-link:hover,
 .cid-rxH8zrs5HM .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rPI1gBs3ZW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rPI1gBs3ZW .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rPI1gBs3ZW .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rPI1gBs3ZW .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rPI1gBs3ZW .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  .cid-rPI1gBs3ZW .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rPI1gBs3ZW .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rPI1gBs3ZW .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rPI1gBs3ZW .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rPI1gBs3ZW .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rPI1gBs3ZW .media-block {
+    padding-left: 2rem;
+  }
+}
+.cid-rPI1gBs3ZW .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rPI1gBs3ZW .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rPI1gBs3ZW .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-rPI5AeMqgZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rPI5AeMqgZ .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rPI5AeMqgZ .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rPI5AeMqgZ .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rPI5AeMqgZ .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rPI5AeMqgZ .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rPI5AeMqgZ .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rPI5AeMqgZ .card .panel-body {
+  color: #767676;
+}
+.cid-rPI6nvDm3N {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rPI6nvDm3N .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rPI6nvDm3N h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rPI6nvDm3N .bottom-line p {
+  color: #767676;
+}
+.cid-rPI6nvDm3N .card-wrapper {
+  background-color: #ffffff;
+  background-color: transparent;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rPI6nvDm3N .card-wrapper .card-box {
+  width: 100%;
+}
+.cid-rPI6nvDm3N .card-wrapper .card-box .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.cid-rPI6nvDm3N .card-wrapper .card-box .wrapper .top-line {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rPI6nvDm3N .card-wrapper .card-box .wrapper .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rPI6nvDm3N .card-wrapper .card-box .wrapper .bottom-line {
+    width: 100%;
+  }
+  .cid-rPI6nvDm3N .card-wrapper .card-box .wrapper .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rPI6nvDm3N .card.pb-5 {
+    padding-bottom: 2rem !important;
+  }
+  .cid-rPI6nvDm3N .wrapper {
+    padding-top: 1rem;
+  }
 }
