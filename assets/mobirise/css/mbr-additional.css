@@ -3269,6 +3269,9 @@ section.lazy-placeholder:after {
 .cid-rPI5AeMqgZ .card .panel-body {
   color: #767676;
 }
+.cid-rPI5AeMqgZ H4 {
+  color: #000000;
+}
 .cid-rT1qywjvQW {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3724,7 +3727,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rT1BtLl58g {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
