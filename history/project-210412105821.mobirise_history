@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MacServis",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -69,7 +69,9 @@
     },
     "imageResize": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false
+    "sitemapSwitcherAuto": false,
+    "publishType": "local",
+    "publishPath": "file:///Users/pro23/Documents/TEST"
   },
   "pages": {
     "index.html": {
