@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MacServis",
-    "currentPage": "page4.html",
+    "currentPage": "mobile-devices.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1607,7 +1607,7 @@
         }
       ]
     },
-    "page3.html": {
+    "mac.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Mac",
@@ -2021,7 +2021,7 @@
         }
       ]
     },
-    "page4.html": {
+    "mobile-devices.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Mobilne naprave",
